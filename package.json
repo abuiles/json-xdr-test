@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "exec": "node index.js"
+  },
+  "dependencies": {
+    "js-xdr": "^1.1.1",
+    "json-xdr": "^0.0.3"
+  }
+}
