@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "js-xdr": "^1.1.1",
-    "json-xdr": "^0.0.3"
+    "json-xdr": "^0.1.0",
+    "stellar-sdk": "^0.15.0"
   }
 }
